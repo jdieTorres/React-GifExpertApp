@@ -2,9 +2,6 @@
   "files": {
     "main.css": "./static/css/main.17aeccf6.css",
     "main.js": "./static/js/main.444e1808.js",
-    "static/media/TrebuchetMS.ttf": "./static/media/TrebuchetMS.ttf",
-    "static/media/BebasNeue.otf": "./static/media/BebasNeue.7d8d1ee35def7f4e4c20.otf",
-    "static/media/FjallaOne-Regular.ttf": "./static/media/FjallaOne-Regular.b8a8342b1b9e4e1775a1.ttf",
     "index.html": "./index.html",
     "main.17aeccf6.css.map": "./static/css/main.17aeccf6.css.map",
     "main.444e1808.js.map": "./static/js/main.444e1808.js.map"
